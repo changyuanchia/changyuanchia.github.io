@@ -49,7 +49,7 @@ With a multidisciplinary background, I aim to contribute to the application of r
     border-radius: 4px;
   }
 
-  .publication-title .open-sans-section {
+  .publication-title {
     display: block;
     margin-bottom: 0.4rem;
     line-height: 1.35;
@@ -83,7 +83,7 @@ With a multidisciplinary background, I aim to contribute to the application of r
       <img class="publication-image" src="{{ site.baseurl }}{{ post.image }}" alt="Image for {{ post.title }}" loading="lazy">
     {% endif %}
     <div>
-      <strong class="publication-title">{{ post.title }}</strong>
+      <strong class="publication-title open-sans-section">{{ post.title }}</strong>
       <div class="publication-citation">{{ post.citation }}</div>
       {% if post.paperurl %}<a class="publication-paper-link" href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[paper]</a>{% endif %}
     </div>
