@@ -11,16 +11,6 @@ I am a Human-Robot Interaction (HRI) researcher with an engineering background a
 With a multidisciplinary background, I aim to contribute to the application of robots and artificial intelligence through both teaching and research.
 
 
-Research Interests
-======
-
-- Human-Robot Interaction
-- Human-Computer Interaction
-- User Experience Design and Research
-- Human-Centered Physical AI
-- Social robots and avatar robots
-- Moral interaction and authoritative presence
-
 Publications
 ======
 
