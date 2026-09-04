@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuan-Chia Chang 張元嘉"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
