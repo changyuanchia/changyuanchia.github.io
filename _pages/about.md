@@ -17,8 +17,9 @@ Publications
 <ul>
 {% for post in site.publications reversed %}
   <li>
-    <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong><br>
-    {{ post.citation }}
+    <strong>{{ post.title }}</strong><br>
+    {{ post.citation }}<br>
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">[paper]</a>{% endif %}
   </li>
 {% endfor %}
 </ul>
