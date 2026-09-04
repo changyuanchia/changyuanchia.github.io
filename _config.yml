@@ -15,7 +15,7 @@ name                     : &name "Yuan-Chia Chang"
 description              : &description "Human-Robot Interaction researcher working on authoritative presence, social robots, and human-centered physical AI."
 url                      : "https://changyuanchia.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/info"
+baseurl                  : ""
 repository               : "changyuanchia/changyuanchia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
