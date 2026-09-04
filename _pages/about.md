@@ -14,12 +14,67 @@ With a multidisciplinary background, I aim to contribute to the application of r
 Publications
 ======
 
-<ul>
+<style>
+  .publication-list {
+    display: grid;
+    gap: 1.5rem;
+    margin: 1.25rem 0 0;
+  }
+
+  .publication-item {
+    display: grid;
+    grid-template-columns: minmax(150px, 210px) minmax(0, 1fr);
+    gap: 1.25rem;
+    align-items: start;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  .publication-image {
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  .publication-title {
+    display: block;
+    margin-bottom: 0.4rem;
+    line-height: 1.35;
+  }
+
+  .publication-citation {
+    line-height: 1.55;
+  }
+
+  .publication-paper-link {
+    display: inline-block;
+    margin-top: 0.45rem;
+  }
+
+  @media (max-width: 600px) {
+    .publication-item {
+      grid-template-columns: 1fr;
+      gap: 0.8rem;
+    }
+
+    .publication-image {
+      max-height: 240px;
+    }
+  }
+</style>
+
+<div class="publication-list">
 {% for post in site.publications reversed %}
-  <li>
-    <strong>{{ post.title }}</strong><br>
-    {{ post.citation }}<br>
-    {% if post.paperurl %}<a href="{{ post.paperurl }}">[paper]</a>{% endif %}
-  </li>
+  <article class="publication-item">
+    {% if post.image %}
+      <img class="publication-image" src="{{ site.baseurl }}{{ post.image }}" alt="Image for {{ post.title }}" loading="lazy">
+    {% endif %}
+    <div>
+      <strong class="publication-title">{{ post.title }}</strong>
+      <div class="publication-citation">{{ post.citation }}</div>
+      {% if post.paperurl %}<a class="publication-paper-link" href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[paper]</a>{% endif %}
+    </div>
+  </article>
 {% endfor %}
-</ul>
+</div>
