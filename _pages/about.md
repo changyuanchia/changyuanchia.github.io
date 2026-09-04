@@ -56,7 +56,8 @@ With a multidisciplinary background, I aim to contribute to the application of r
   }
 
   .publication-citation {
-    line-height: 1.1;
+    font-size: 0.9em;
+    line-height: 1.4;
   }
 
   .publication-paper-link {
