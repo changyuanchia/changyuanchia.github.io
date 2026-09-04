@@ -13,20 +13,24 @@ My research interests are Human-Robot Interaction (HRI), Computer-Supported Coll
 With a multidisciplinary background, I aim to contribute to the application of robots and artificial intelligence through both teaching and research.
 
 
-Academic service
-=====
-I have reviewed papers for CSCW 2020, CHI 2020 late breaking work, HAI 2023, HAI 2024, RO-MAN 2025, HRI 2025, HRI
-2026, THRI (Transactions on Human-Robot Interaction), International Journal of Social Robotics
+<section class="open-sans-section">
+  <h1>Academic service</h1>
+  <p>I have reviewed papers for CSCW 2020, CHI 2020 late breaking work, HAI 2023, HAI 2024, RO-MAN 2025, HRI 2025, HRI 2026, THRI (Transactions on Human-Robot Interaction), International Journal of Social Robotics</p>
+</section>
 
 
-Publications
-======
+<h1 class="open-sans-section">Publications</h1>
 
 <style>
   .publication-list {
+    font-family: "Open Sans", sans-serif;
     display: grid;
     gap: 1.5rem;
     margin: 1.25rem 0 0;
+  }
+
+  .open-sans-section {
+    font-family: "Open Sans", sans-serif;
   }
 
   .publication-item {
