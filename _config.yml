@@ -25,6 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.webp"
   name             : "Yuan-Chia Chang 張元嘉"
+  name_english     : "Yuan-Chia Chang"
+  name_native      : "張元嘉"
   pronouns         : # example: "she/her"  
   bio              : "Human-Robot Interaction researcher"
   location         : "Taiwan"
