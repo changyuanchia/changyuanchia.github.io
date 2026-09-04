@@ -14,7 +14,7 @@ With a multidisciplinary background, I aim to contribute to the application of r
 
 
 <h2 class="open-sans-section">Academic service</h2>
-<section>
+<section class="academic-service-text">
   <p>I have reviewed papers for CSCW 2020, CHI 2020 late breaking work, HAI 2023, HAI 2024, RO-MAN 2025, HRI 2025, HRI 2026, THRI (Transactions on Human-Robot Interaction), International Journal of Social Robotics</p>
 </section>
 
@@ -31,6 +31,10 @@ With a multidisciplinary background, I aim to contribute to the application of r
   .page__content .open-sans-section {
     font-family: "Open Sans Condensed", sans-serif;
     font-weight: 300;
+  }
+
+  .academic-service-text {
+    font-size: 0.9em;
   }
 
   .publication-item {
