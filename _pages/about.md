@@ -49,7 +49,7 @@ With a multidisciplinary background, I aim to contribute to the application of r
     border-radius: 4px;
   }
 
-  .publication-title {
+  .publication-title .open-sans-section {
     display: block;
     margin-bottom: 0.4rem;
     line-height: 1.35;
