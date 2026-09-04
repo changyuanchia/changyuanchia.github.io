@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Human-Robot Interaction (HRI) researcher with an engineering background and hands-on experience in robot interface development, teleoperation system integration, field testing, and user behavior analysis. My work bridges system development and empirical research to understand the challenges that arise when robots move into real-world social environments.
+I am a postdocoral researcher in National Taiwan University. My research interests are Human-Robot Interaction (HRI), Computer-Supported Collaborative Work (CSCW), and Human-Computer Interaction (HCI). I have hands-on experience in robot interface development, teleoperation system integration, field testing, and user behavior analysis. My work bridges system development and empirical research to understand the challenges that arise when robots move into real-world social environments, especially in avatar robot, robot's perceived authrotiy and authoritaitve presence.
 With a multidisciplinary background, I aim to contribute to the application of robots and artificial intelligence through both teaching and research.
 
 
