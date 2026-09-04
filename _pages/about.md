@@ -14,12 +14,12 @@ With a multidisciplinary background, I aim to contribute to the application of r
 
 
 <section class="open-sans-section">
-  <h1>Academic service</h1>
+  <h2>Academic service</h1>
   <p>I have reviewed papers for CSCW 2020, CHI 2020 late breaking work, HAI 2023, HAI 2024, RO-MAN 2025, HRI 2025, HRI 2026, THRI (Transactions on Human-Robot Interaction), International Journal of Social Robotics</p>
 </section>
 
 
-<h1 class="open-sans-section">Publications</h1>
+<h2 class="open-sans-section">Publications</h2>
 
 <style>
   .publication-list {
