@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also [download my CV (PDF)](/files/Yuan-Chia-Chang-CV.pdf).
+You can also [download my CV (PDF)]({{ site.baseurl }}/files/Yuan-Chia-Chang-CV.pdf).
 
 Research Interests
 ======

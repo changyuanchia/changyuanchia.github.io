@@ -13,10 +13,10 @@ title                    : "Yuan-Chia Chang"
 title_separator          : "-"
 name                     : &name "Yuan-Chia Chang"
 description              : &description "Human-Robot Interaction researcher working on authoritative presence, social robots, and human-centered physical AI."
-url                      : "https://yuanchia0907.github.io"
+url                      : "https://changyuanchia.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/yuanchiachang"
-repository               : "yuanchia0907/yuanchiachang"
+baseurl                  : "/info"
+repository               : "changyuanchia/info"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

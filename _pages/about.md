@@ -33,4 +33,4 @@ Research Focus
 
 My doctoral research introduced **authoritative presence**: an impression that elicits respect-based, internally perceived authority and encourages people to cooperate with a robot. Rather than relying on coercion or externally imposed authority, this concept focuses on how authority emerges through users' perceptions and experiences during interaction. Through three empirical studies, I examined how robot behavior and an operator's embodiment contribute to its formation.
 
-[View publications](/publications/){: .btn .btn--primary} [View CV](/cv/){: .btn}
+[View publications]({{ site.baseurl }}/publications/){: .btn .btn--primary} [View CV]({{ site.baseurl }}/cv/){: .btn}
