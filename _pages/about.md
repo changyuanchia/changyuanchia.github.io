@@ -23,14 +23,14 @@ With a multidisciplinary background, I aim to contribute to the application of r
 
 <style>
   .publication-list {
-    font-family: "Open Sans Condensed", sans-serif;
     display: grid;
     gap: 1.5rem;
     margin: 1.25rem 0 0;
   }
 
-  .open-sans-section {
+  .page__content .open-sans-section {
     font-family: "Open Sans Condensed", sans-serif;
+    font-weight: 300;
   }
 
   .publication-item {
