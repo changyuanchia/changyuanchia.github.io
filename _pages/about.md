@@ -32,5 +32,3 @@ Publications
   </li>
 {% endfor %}
 </ul>
-
-[View all publications]({{ site.baseurl }}/publications/){: .btn .btn--primary} [View CV]({{ site.baseurl }}/cv/){: .btn}
