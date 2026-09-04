@@ -23,7 +23,7 @@ repository               : "changyuanchia/info"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   name             : "Yuan-Chia Chang 張元嘉"
   pronouns         : # example: "she/her"  
   bio              : "Human-Robot Interaction researcher"
