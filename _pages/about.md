@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdocoral researcher in National Taiwan University. My research interests are Human-Robot Interaction (HRI), Computer-Supported Collaborative Work (CSCW), and Human-Computer Interaction (HCI). I have hands-on experience in robot interface development, teleoperation system integration, field testing, and user behavior analysis. My work bridges system development and empirical research to understand the challenges that arise when robots move into real-world social environments, especially in avatar robot, robot's perceived authrotiy and authoritaitve presence.
+I am a postdocoral researcher in National Taiwan University, supervised by Prof.[Robin Bing-Yu Chen](https://graphics.cmlab.csie.ntu.edu.tw/~robin/). I finished my doctoral study supervised by Prof. [Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/) and co-advised by Prof. [Daniel J. Rea](https://hci.cs.umanitoba.ca/people/bio/daniel-rea) in Kyoto University, Japan.
+My research interests are Human-Robot Interaction (HRI), Computer-Supported Collaborative Work (CSCW), and Human-Computer Interaction (HCI). I have hands-on experience in robot interface development, teleoperation system integration, field testing, and user behavior analysis. My work bridges system development and empirical research to understand the challenges that arise when robots move into real-world social environments, especially in avatar robot, robot's perceived authrotiy and authoritaitve presence.
 With a multidisciplinary background, I aim to contribute to the application of robots and artificial intelligence through both teaching and research.
 
 
